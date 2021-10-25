@@ -1,0 +1,84 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+.top_container{
+    background-color: #C8E3D4;
+    height: 700px;
+}
+h1{
+    margin: 0;
+    padding-top: 100px;
+    font-family: 'Dancing Script', cursive;
+    color: #11999E;
+}
+h2{
+    font-family: 'Merriweather', serif;
+    color: #11999E;
+}
+h3{
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+.learner{
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+.intro{
+    font-size: 5.625rem;
+    line-height: 6.5rem;
+}
+hr{
+    border: dotted lightsteelblue;
+    border-bottom: none;
+    width: 4%;
+}
+
+
+.middle_container{
+    height: 1000px;
+}
+.bottom_container{
+   height: 200px;
+}
+.tcloud{
+    display: block;
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bcloud{
+    position: absolute;
+    top: 200px;
+    left: 300px;   
+}
+.my_pic{
+    height: 300px;
+    margin: 100px 0px 50px;
+}
+table{
+    padding :30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+}
+.skill{
+    padding :20px;
+}
+td{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.contact{
+    padding: 0;
+}
+.contactme{
+    display: block;
+    padding: 20px;
+}
+.social_media{
+    padding: 20px;
+}
+
+
+
